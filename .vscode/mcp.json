@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"my-mcp-server-33b58aed": {
+			"url": "https://api.githubcopilot.com/mcp/",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
